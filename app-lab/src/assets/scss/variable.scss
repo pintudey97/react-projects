@@ -1,0 +1,26 @@
+//text color
+$primery-textcolor:#242f51;
+$white:#ffffff;
+$black:#242f51;
+$red:#f55767;
+$blue:#2563ff;
+$green:#40975f;
+
+// font family
+$primery-font:verdana;
+
+//font weight
+$bold:700;
+$normal:400;
+
+// button color
+$primery-button:#2500f9;
+// radious
+
+@mixin border-radius($value) {
+    border-radius: $value;
+}
+// mixing
+
+
+//responsive
